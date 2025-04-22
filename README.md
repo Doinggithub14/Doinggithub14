@@ -1,29 +1,21 @@
+<h2 align="center">👋 Hi there! I'm Zach</h2>
 
-  <h1 align="center">👋 Hi there! I'm Divya.</h1>
+<div align="center">
+  
+
+[![Twitter](https://img.shields.io/badge/ZacharyHuang12-000000?logo=x&logoColor=white)](https://x.com/ZacharyHuang12)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/divya-vadnere-a49692288/)
+[![GitHub](https://img.shields.io/badge/-zachary62-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Doinggithub14)
+
+
+</div>
+
+
+ I currently work on development. I love building, writing and coding.
+
 
 <p align="center">
-  <a href="https://twitter.com/YourHandle"><img src="https://img.shields.io/badge/X-YourHandle-black?logo=twitter"></a>
-  <a href="https://www.linkedin.com/in/divya-vadnere-a49692288/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"></a>
-  <a href="https://github.com/Doinggithub14"><img src="https://img.shields.io/badge/GitHub-YourUsername-lightgrey?logo=github"></a>
+  <img src="./images/doggo-doge.gif" alt="Doggo 1" width="100" />
+  <img src="./images/doggo-doge.gif" alt="Doggo 2" width="100" />
+  <img src="./images/doggo-doge.gif" alt="Doggo 3" width="100" />
 </p>
-
----
-
- 
-💻 I am a developer 
-✍️ I write code.  
- 
-
----
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl1cTBiNWd1emZrbndqdXR4Mm9nZXpmYm41Nm9id2N4b3RxbzNjdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl1cTBiNWd1emZrbndqdXR4Mm9nZXpmYm41Nm9id2N4b3RxbzNjdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="100">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTl1cTBiNWd1emZrbndqdXR4Mm9nZXpmYm41Nm9id2N4b3RxbzNjdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="100">
-</p>
-
-
-<!---
-Doinggithub14/Doinggithub14 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
