@@ -21,3 +21,20 @@
   <img src="./doggo-doge.gif" alt="Doggo 2" width="100" />
   <img src="./doggo-doge.gif" alt="Doggo 3" width="100" />
 </p>
+
+
+<p align="left">
+   <a href="https://github.com/Doinggithub14">
+        <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Doinggithub14&theme=radical&border_radius=2.5"/>
+   </a>
+</p>
+
+<p align="left">
+<a href="https://github.com/Doinggithub14">
+        <img alt="GitHub Stats" src="https://readme-stats.warengonzaga.com/api?username=Doinggithub14&show_icons=true&count_private=true&theme=radical" width="400px"/>
+</a>
+
+<a href="https://github.com/Doinggithub14">
+        <img alt="Top Languages" src="https://readme-stats.warengonzaga.com/api/top-langs?username=Doinggithub14&layout=compact&theme=radical" width="400px"/>
+</a>
+</p>
