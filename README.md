@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
- I currently work on development. I love building, writing and coding.
+ I'm developer and I love building, writing and coding.
 </p>
 
 <p align="center">
