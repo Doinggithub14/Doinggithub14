@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
- I'm a developer and I love building, writing and coding.
+A developer who believes in blending human empathy with technology — building thoughtful, real-world solutions that serve people, not just systems.
 </p>
 
 <p align="center">
