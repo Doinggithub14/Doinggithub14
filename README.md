@@ -40,7 +40,7 @@ A developer who believes in blending human empathy with technology — building 
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
-  <a href="https://github.com/hamim-ifty">
+  <a>
     <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Activity Snake" width="90%">
   </a>
 </div>
