@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-A developer who believes in blending human empathy with technology — building thoughtful, real-world solutions that serve people, not just systems.
+A developer building thoughtful, real-world solutions that serve people, not just systems.
 </p>
 
 <p align="center">
